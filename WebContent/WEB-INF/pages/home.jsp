@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1 style="color:green;text-align:center">SHOW HOME PAGE</h1>
+<a href="countries">All Countries</a>
 </body>
 </html>
